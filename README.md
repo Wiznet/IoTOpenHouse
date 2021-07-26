@@ -26,6 +26,7 @@ IoT 오픈 하우스는 IoT 생태계 활성화를 위하여 개발자 및 스�
 
 ### **[IoT 디바이스 개발 프로세스와 오픈 하우스의 단계별 지원](Docs/IoTDevProcess.md)**
 ### **[IoT 스타터키트(Cat M1) 소개](Docs/StarterKit.md)**
+### **[IoT 모듈(LoRa, Cat M1) 소개](Docs/Modules.md)**
 
 
 ### IoT 개발 프로세스
