@@ -22,9 +22,10 @@ IoT 오픈 하우스는 IoT 생태계 활성화를 위하여 개발자 및 스�
 ### 위치 및 연락처
 오픈 하우스는 분당구 수내동에 위치하고 있습니다.
 오픈 하우스 방문 요청 또는 오픈 하우스의 지원이 필요하시면 openhouse@wiznet.io로 연락주시기 바랍니다.
-* **[SK 텔레콤 TWold Biz IoT 서포트 신청](http://b2b.tworld.co.kr/cs/counsel/iotOpenHouse.bc)
+* **[SK 텔레콤 TWold Biz IoT 서포트 신청](http://b2b.tworld.co.kr/cs/counsel/iotOpenHouse.bc)**
 
 ### **[IoT 디바이스 개발 프로세스와 오픈 하우스의 단계별 지원](Docs/IoTDevProcess.md)**
+### **[IoT 스타터키트(Cat M1) 소개](Docs/StarterKit.md)**
 
 
 ### IoT 개발 프로세스
