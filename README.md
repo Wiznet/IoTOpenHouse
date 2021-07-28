@@ -30,8 +30,7 @@ IoT 오픈 하우스는 IoT 생태계 활성화를 위하여 개발자 및 스�
 ### **[IoT 모듈(LoRa, Cat M1) 소개](Docs/IoTModules.md)**
 ### **[IoT 요금제 소개](http://b2b.tworld.co.kr/cs/basicproduct/basicProductPlanList.bc?mclCd=13)**
 ### **[IoT 모듈 무상 샘플](https://forms.office.com/r/gK4Aa57fyA)**
-
-### **[IoT 망 접속 및 개통 가이드](Docs.md)**
+### **[IoT망 접속 및 개통](Docs/AttachNetwork.md)**
 
 * **[IoT 상용제품 소개](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr)**
 * **[클라우드 연동](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr)**
