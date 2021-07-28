@@ -21,7 +21,7 @@ IoT 오픈 하우스는 IoT 생태계 활성화를 위하여 개발자 및 스�
 
 ### 위치 및 연락처
 오픈 하우스는 40여평의 규모로 회의실, 교육장, Lab 등을 보유하고 있고, 분당구 수내동에 위치하고 있습니다.  
-LoRa 전용 계측 장비(https://www.redwoodcomm.com/product/01.php?cate_1=32)와 시험용 SK텔레콤 LoRa 게이트웨이도 보유하고 있습니다.  
+[LoRa 전용 계측 장비](https://www.redwoodcomm.com/product/01.php?cate_1=32)와 시험용 SK텔레콤 LoRa 게이트웨이도 보유하고 있습니다.  
 오픈 하우스 방문을 원하기거나 오픈 하우스의 컨설팅 상담이나 지원이 필요하시면 [SK텔레콤 IoT 서포트 신청](http://b2b.tworld.co.kr/cs/counsel/iotOpenHouse.bc) 또는 openhouse@wiznet.io로 연락을 주시기 부탁 드립니다.  
 
 
