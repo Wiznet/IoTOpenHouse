@@ -9,6 +9,8 @@ IoT 스타터 키트(LTE Cat.M1)는 LTE Cat.M1 네트워크를 사용하는 IoT 
 
 아래 링크에서는 다양한 하드웨어 플랫폼에서 활용 할 수 있는 예제 코드와 시작 가이드 및 어플리케이션 노트 등의 문서를 제공합니다.
 https://github.com/Wiznet/wiznet-iot-shield-kr
+![image](https://user-images.githubusercontent.com/2126804/127248952-87f62d02-0d26-4966-917e-8cda192b401c.png)
+
 
 아래 링크에서는 스타터 키트를 활용한 몇 가지 가이드를 동영상으로 제공합니다.  
 https://youtu.be/qyOocQNyKRg
