@@ -13,7 +13,7 @@ IoT 디바이스를 개발할 때에는 대략 아래와 같은 프로세스로 
 * SK Telecom LoRa 망에 Join 테스트를 해 볼수 있는 방법은?
 * ThingPlug 연동 방법은?
 * PCB 조립 및 테스트 단계에서 통신사 IoT 망에 접속할 수 있는 방법은?  
-* Cat M1 모듈사 담당자 연락처는?
+* LoRa/Cat M1 모듈들의 담당자 연락처는?
 * IoT USIM 또는 eSIM 구매처는?
 * Cat M1 단말에서 Azure IoT나 AWS IoT 접속 방법은?
 * 통신사 망 인증에 소요되는 대략적인 기간은?
