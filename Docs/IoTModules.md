@@ -12,10 +12,11 @@
 ![image](https://user-images.githubusercontent.com/2126804/126936313-a2836799-d27f-4920-8574-c7895331f001.png)
 
 ### Cat M1 모듈
-아래는 SK텔레콤의 인증을 받은 Cat M1 모듈들입니다. 일부 제품을 제외하고는 대부분은 Qualcomm 사의 MDM920x 칩을 사용했습니다.  
+아래는 SK텔레콤의 인증을 받은 Cat M1 모듈들입니다. 일부 모듈을 제외하고는 대부분은 Qualcomm 사의 MDM9206(또는 MDM9205) 칩을 사용했습니다.  
 대부분 UART를 이용한 AT Command로 동작하고, 일부는 Rich OS(Linux, Windows)의 USB를 통한 RNDIS 형태의 연결을 지원하기도 합니다. 또한 일부 모듈들은 GPS 기능, SDK 지원(Linux/ThreadX), eSIM 내장 등을 지원하고 있습니다.    
 ![image](https://user-images.githubusercontent.com/2126804/126936988-3cd0a960-7a49-46c5-9e83-e420d7ef8ceb.png)
 > 좌측부터 우리넷, AM텔레콤, 엔티모아, 텔릿, 앰투앰넷(Quectel), 유블럭스, 탈레스, 무라타 사의 Cat M1 모듈
+> 위에 나열된 모듈 외에도 모듈사마다 추가 Cat M1 모듈들도 있습니다.
 
 ### Cat M1 외장형 모뎀
 ![image](https://user-images.githubusercontent.com/2126804/126936942-516d3179-f478-4ffc-af3f-0fb115c346a4.png)
